@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+src/power_num_com/__init__.py
+src/power_num_com/practicals.py
+src/power_num_com.egg-info/PKG-INFO
+src/power_num_com.egg-info/SOURCES.txt
+src/power_num_com.egg-info/dependency_links.txt
+src/power_num_com.egg-info/requires.txt
+src/power_num_com.egg-info/top_level.txt
+tests/test_practicals.py
